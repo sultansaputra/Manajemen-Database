@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "6824214ebe14ca10b7832307"
+  },
+  "Nama_Sayuran": "Bayam",
+  "Warna": "Hijau",
+  "Stock": "10"
+},
+{
+  "_id": {
+    "$oid": "68242308be14ca10b7832309"
+  },
+  "Nama_Sayuran": "Wortel",
+  "Warna": "Kuning",
+  "Stock": "15"
+},
+{
+  "_id": {
+    "$oid": "6824234bbe14ca10b783230a"
+  },
+  "Nama_Sayuran": "Tomat",
+  "Warna": "Merah",
+  "Stock": "16"
+}]
