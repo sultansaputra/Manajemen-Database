@@ -1,1 +1,1 @@
-db.produk.deleteOne({jenis: "Pertalite"});
+db.produk.deleteOne({jenis: "Solar"});
