@@ -1,1 +1,1 @@
-db.produk.find({stok: {$gt: 500}});
+db.produk.find({stok_liter: {$gt: 500}});
